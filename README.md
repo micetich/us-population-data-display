@@ -7,4 +7,4 @@ This project is a web application that displays the US Population data fetched f
 - Fetches the latest US population data from the DataUSA API.
 - Displays data in a sortable table.
 ## Screenshots
-![US Population Data Display](screenshots/screenshot.png)
+![US Population Data Display](hw2ss.png)
